@@ -1,0 +1,21 @@
+{
+  "name": "lista-ordenada",
+  "version": "1.0.0",
+  "description": "este es mi primer proyecto de node js",
+  "homepage": "https://github.com/castromartina1553-art/lista-ordenada#readme",
+  "bugs": {
+    "url": "https://github.com/castromartina1553-art/lista-ordenada/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/castromartina1553-art/lista-ordenada.git"
+  },
+  "license": "MIT",
+  "author": "Martina Castro",
+  "type": "module",
+  "main": "hola_mundo.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start" : "node hola_mundo.js"
+  }
+}
